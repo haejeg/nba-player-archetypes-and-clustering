@@ -1,0 +1,4 @@
+- [1] **Player archetypes** (Clustering, labelling, win-share understanding)
+- [2] **Team-season archetype mix** (Seeing which archetypes have worked well together in the past, understanding which combinations bring wins)
+- [3] **Current teams' gaps & which archetypes they need** (Based on current teams, what could help fill their goals)
+- [4] **Draft prospects → predicted NBA archetype** (College data)
